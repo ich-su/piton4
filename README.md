@@ -9,6 +9,9 @@
 
 Скриншоты:
 
+* ![](./blob/main/screenshots/01.png)
+
+
 * ![](https://github.com/ich-z/piton4/blob/main/screenshots/01.png)
 * ![](https://github.com/ich-z/piton4/blob/main/screenshots/02.png)
 * ![](https://github.com/ich-z/piton4/blob/main/screenshots/03.png)
