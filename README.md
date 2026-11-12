@@ -26,3 +26,6 @@
 * ![](./screenshots/09.png)
 * ![](./screenshots/10.png)
 * ![](./screenshots/11.png)
+
+страница проекта на гитхабе:
+[github.com/ich-su/piton4](https://github.com/ich-su/piton4)
